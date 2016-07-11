@@ -1,4 +1,5 @@
 # mobilefirst
 
 ## Instruction
-npm install
+- npm install
+- gulp

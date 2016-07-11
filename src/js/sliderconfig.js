@@ -22,6 +22,15 @@ $(document).ready(function(){
         autoControls:false
 
     });
+    $('#slider3').bxSlider({
+        mode:'vertical',
+        auto: true,
+        pause: 2000,
+        pager: false,
+        controls: false,
+        autoControls:false,
+        adaptiveHeight:true
+    });
 
 
 
